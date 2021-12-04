@@ -123,7 +123,7 @@ body{
 </head>
 <body>
 
-<form name="myForm" action="." onsubmit="return validateForm()" method="post" class="login-form">
+<form name="myForm" action="{{url_for('index')}}" onsubmit="return validateForm()" method="post" class="login-form">
     <h1>Crop Suggestion</h1>
     <div class="txtb">
         <input type="number" name="fname">
