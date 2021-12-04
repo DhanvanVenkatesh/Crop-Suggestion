@@ -9,3 +9,8 @@ This is the first module of our project in devoloping a apllication for providin
 
 
 
+
+## Demo
+
+Link for the application (Crop Suggestion):
+https://cropsuggestion.herokuapp.com/
